@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>class</key>
+        <string>等 级</string>
+        <key>notBuy</key>
+        <string>未购买</string>	
+        <key>needToBuy</key>
+        <string>需要购买后才能使用</string>
+		<key>GuideProtectMrsGan</key>
+		<string>保护城墙</string>
+		<key>GuideMoveLeft</key>
+		<string>长按屏幕左边，控制霸刀向左移动</string>
+		<key>GuideMoveRight</key>
+		<string>长按屏幕右边，控制霸刀向右移动</string>
+		<key>GuideNormalAttack</key>
+		<string>敌兵接近，霸刀停止移动自动攻击敌兵</string>
+		<key>GuideUseSkill</key>
+		<string>点击图标，使用技能，强力攻击敌兵</string>
+		<key>GuideRoleDanger</key>
+		<string>生命值低下,快后退</string>
+		<key>GuideMoneyIncrease</key>
+		<string><![CDATA[钱袋会按一定时间增长
+钱袋等级越高增长越快]]></string>
+		<key>GuideSendSoldiers</key>
+		<string>点击这里派遣士兵加入战斗</string>
+		<key>GuideCollectBag</key>
+		<string><![CDATA[拾取钱袋可以累积更多金钱
+制作更多士兵参战]]></string>
+		<key>GuideCollectMoney</key>
+		<string>拾取金元宝可以升级霸刀、城防和技能</string>
+		<key>GuideZhaoYun</key>
+		<string>马超来援助!</string>
+		<key>GuideZhangFei</key>
+		<string>廖化来援助!</string>
+		<key>ChoiceSoldierAndSkillPromptWithSoldier</key>
+		<string>需至少选择一个士兵!</string>
+		<key>ChoiceSoldierAndSkillPromptWithSkill</key>
+		<string>需至少选择一个技能!</string>
+		<key>MidModeLock</key>
+		<string>需要完成普通模式才能解锁</string>
+		<key>HardModeLock</key>
+		<string>需要完成中等模式才能解锁</string>
+		<key>MidModeUnlock</key>
+		<string>解开中等模式</string>
+		<key>HardModeUnlock</key>
+		<string>解开困难模式</string>
+		<key>HardEndlessModeUnlock</key>
+		<string>恭喜解开困难无限模式</string>
+    </dict>
+</plist>

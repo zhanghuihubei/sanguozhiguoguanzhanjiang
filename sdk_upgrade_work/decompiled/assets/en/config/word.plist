@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>class</key>
+        <string>level</string>
+        <key>notBuy</key>
+        <string>No purchase</string>	
+        <key>needToBuy</key>
+        <string>After the need to buy in order to use</string>
+		<key>GuideProtectMrsGan</key>
+		<string>Protect town</string>
+		<key>GuideMoveLeft</key>
+		<string>Hold on the left screen to move left</string>
+		<key>GuideMoveRight</key>
+		<string>Hold on the right screen to move right </string>
+		<key>GuideNormalAttack</key>
+		<string>Fingers leave screen, Hero Badao will stop. He will automatically attack enemies.</string>
+		<key>GuideUseSkill</key>
+		<string>Use skills to attack enemies</string>
+		<key>GuideRoleDanger</key>
+		<string>fast backward,The value of life is low</string>
+		<key>GuideMoneyIncrease</key>
+		<string><![CDATA[Money package will increase with time. 
+The level higher, the more quickly.]]></string>
+		<key>GuideSendSoldiers</key>
+		<string>Call for troops</string>
+		<key>GuideCollectBag</key>
+		<string><![CDATA[Gathering money bags to recruit troops]]></string>
+		<key>GuideCollectMoney</key>
+		<string>Gathering gold to update Heroes, defense and skills</string>
+		<key>GuideZhaoYun</key>
+		<string>here comes Ma Chao!</string>
+		<key>GuideZhangFei</key>
+		<string>here comes Liao Hua!</string>
+		<key>ChoiceSoldierAndSkillPromptWithSoldier</key>
+		<string>Need to select at least one soldier!</string>
+		<key>ChoiceSoldierAndSkillPromptWithSkill</key>
+		<string>Need to select at least one skill!</string>
+		<key>MidModeLock</key>
+		<string>Need to complete the normal mode to unlock</string>
+		<key>HardModeLock</key>
+		<string>Medium mode needs to be done to unlock</string>
+		<key>MidModeUnlock</key>
+		<string>Medium mode to unlock</string>
+		<key>HardModeUnlock</key>
+		<string>Unlock Hard Mode</string>
+		<key>HardEndlessModeUnlock</key>
+		<string>Congratulations to unlock unlimited difficulty mode</string>
+    </dict>
+</plist>

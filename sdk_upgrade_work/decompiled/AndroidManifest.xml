@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.idealdimension.EmpireAttack">
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="28" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <application
+        android:usesCleartextTraffic="true" android:icon="@drawable/icon" android:label="@string/app_name" android:name=".CmgameApplication">
+        <activity android:configChanges="orientation" android:label="@string/app_name" android:name="com.idealdimension.EmpireAttack.SRunningMan" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity android:name="cn.cmgame.billing.api.GameOpenActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CHINAMOBILE_OMS_GAME"/>
+                <category android:name="android.intent.category.CHINAMOBILE_GAMES"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="TD_APP_ID" android:value="8EB6E70485F29D2ABBD2087A81478CD7"/>
+        <meta-data android:name="TD_CHANNEL_ID" android:value="new_yidong"/>
+        <meta-data android:name="CHANNEL" android:value="new_yidong"/>
+    </application>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gc_green">#ff52c60d</color>
+    <color name="gc_light_green">#ffa5d687</color>
+    <color name="gc_white">#ffffffff</color>
+    <color name="gc_gray">#ffcfcfd1</color>
+    <color name="gc_black">#ff000000</color>
+</resources>

@@ -1,0 +1,1553 @@
+Signature-Version: 1.0
+Created-By: 11.0.28 (Ubuntu)
+SHA1-Digest-Manifest: 9iRVKmc7LqszMKux4iPGfepTzew=
+SHA1-Digest-Manifest-Main-Attributes: RlXG1TaCemYPDeH7jq9rQzMwbOg=
+
+Name: assets/sound/ogg/PY02.ogg
+SHA1-Digest: 6tX6s1fRZeVvNGNmhkIcEZyMUxw=
+
+Name: res/drawable-hdpi/gc_center_save.png
+SHA1-Digest: lQg1dDtAbFXduODmPAEbaGTUPsc=
+
+Name: assets/en/Logo.png
+SHA1-Digest: gE+xNedVceebk19Yrwyd2pKbrcU=
+
+Name: assets/sound/ogg/yx01_gj.ogg
+SHA1-Digest: XBaDWHuOCCFonHOBgMLt6SMz5Yk=
+
+Name: assets/cn/skill_show.png
+SHA1-Digest: PyN9ax34JJfPIOi3j3A9w+19hzE=
+
+Name: assets/cn/mid_toll_gate.png
+SHA1-Digest: OqLG0BII6l+0UCzLQKmrZfuJTCk=
+
+Name: assets/sound/ogg/yx01_sw_1.ogg
+SHA1-Digest: H6FYTUoPxSL5X7+tds6M9FVWqW0=
+
+Name: assets/112.png
+SHA1-Digest: pd7bRkv0hcpZsVzMYnrc5ztxU/s=
+
+Name: assets/strip/blood_bar_toll_left.png
+SHA1-Digest: +/9jDyY0hJ9OuFHaigBiYCINcSw=
+
+Name: assets/en/numerous_enemy.png
+SHA1-Digest: yJOKIC9J1bm5bvAU2CaUMHTeWwc=
+
+Name: assets/201.png
+SHA1-Digest: KYJ46YiCZR/D2nHb9U2KszQFISc=
+
+Name: assets/tollgate/t108.plist
+SHA1-Digest: vYkYIP5uTBt+T4H8QMxjb2749k8=
+
+Name: assets/104.png
+SHA1-Digest: +tn6ZQDwpuWZgsucjQhPc/NBTmY=
+
+Name: assets/tollgate/t130.plist
+SHA1-Digest: e9RjhexFM+tWGBlFBlG0MAQadfI=
+
+Name: assets/kills_progress.png
+SHA1-Digest: Zu63JTkoeatwiS63TqKzY3SGSOo=
+
+Name: res/drawable-hdpi/gc_edit_del.png
+SHA1-Digest: F0ctjuLD9mjroRlbXO/BhZpTUSs=
+
+Name: assets/en/hard_toll_gate.png
+SHA1-Digest: dy5KD6LbSAfXwhaewBKlJ+dSo8M=
+
+Name: res/drawable-hdpi/gc_share_weixin_timeline.png
+SHA1-Digest: H8tWEwL1NHHSaQRErhLBwYieSF4=
+
+Name: assets/cn/logo.plist
+SHA1-Digest: I6M4zWUdmqYhe3aUgsEooBLa04I=
+
+Name: assets/en/logo.plist
+SHA1-Digest: X1iNvYe4zc8BbMRQJny1WFhBW/A=
+
+Name: assets/tollgate/t143.plist
+SHA1-Digest: 1aShQkmDhsloBqq+K4ig8xo8IFY=
+
+Name: assets/224.png
+SHA1-Digest: wsjj8i1xLUpVtUiXaf6dSpfuWzo=
+
+Name: assets/108.plist
+SHA1-Digest: lWI6tHgBesFWeW8hci3+yAqjogw=
+
+Name: assets/wuxian.png
+SHA1-Digest: a1D0E90/1tt09dvtmmpL7mhLIFc=
+
+Name: assets/226.plist
+SHA1-Digest: N7UeIIZajxOtb08pDLLcr64dAtU=
+
+Name: assets/tollgate/t103.plist
+SHA1-Digest: 0sXGAiaB/VOImpXbxiXcHEUeHWY=
+
+Name: lib/armeabi-v7a/libgame.so
+SHA1-Digest: 02iWm8ygnoHmBDJ21w+YCrG9N2E=
+
+Name: assets/204a0.png
+SHA1-Digest: s6pjh+6ki4MMT1TGsuu+cAu1UXo=
+
+Name: assets/cn/hud-2.plist
+SHA1-Digest: fIeesPhAhSfc7AegTlrnvi/kqtY=
+
+Name: assets/youxiang.png
+SHA1-Digest: 1l4WMM19D0GzphxSvPOIJwYuXwE=
+
+Name: assets/120.png
+SHA1-Digest: WpCa49IpZwAg2Rl+tcuIIZ5SCRc=
+
+Name: assets/ep_1.png
+SHA1-Digest: uyUEJXm4CvKs9ik6O/+cUqZC1YY=
+
+Name: resources.arsc
+SHA1-Digest: GKb1HW8sr/fatmCaFw4eO5FdWfw=
+
+Name: res/drawable-hdpi/gc_exit_share.png
+SHA1-Digest: DLWHYEdOnhlP4Y+OaJPESru+MUU=
+
+Name: assets/208.png
+SHA1-Digest: 8GLl4byx9v8w4nUPYjqemOrvwBo=
+
+Name: assets/libsecmain.x86.so
+SHA1-Digest: U7GAlecdr2ZhYvaGfc1+W/lBS1o=
+
+Name: res/drawable-hdpi/gc_user_center.png
+SHA1-Digest: v9aOxuTq5WEHks8q1KnQ23U33bk=
+
+Name: assets/218a1.plist
+SHA1-Digest: /uOSj5G8PR4+LV3vSVcO76zvJvs=
+
+Name: assets/700003_mask.png
+SHA1-Digest: uSOBTFln5lwrfl+1ZPWT3o6RqVo=
+
+Name: res/layout/game_demo.xml
+SHA1-Digest: hDuCTILgZVDMs4fF2D/bF/1sHHU=
+
+Name: res/drawable-hdpi/gc_leaderboard_invited_friend.png
+SHA1-Digest: V7Fch8wy5jv0qbdwvsdMBFsutqs=
+
+Name: assets/cn/boss_kill_show.png
+SHA1-Digest: Z6+Ev+/WcjE//J0FTsqPamdJoQM=
+
+Name: assets/tollgate/t122.plist
+SHA1-Digest: dtkiANXo9vJQ7WgUivkuPgvYFxo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: O0BsvGH9e614q2K43H564/eWnIg=
+
+Name: assets/Icon_Cover.png
+SHA1-Digest: SYa7bAstSJTIzPGcdK+SSoyYF3I=
+
+Name: assets/sound/ogg/yx01_sw.ogg
+SHA1-Digest: bPpFXlTI7yMb94vTxHEo+KDka0U=
+
+Name: assets/p_5.plist
+SHA1-Digest: 7LrViPSV4Otc02bvSPnJW0cTEN4=
+
+Name: assets/224a0.plist
+SHA1-Digest: V9oq1bGHBsltTWxxGlbLRIkFWiE=
+
+Name: assets/221.plist
+SHA1-Digest: eiL1vTbaqOdnj2E0YEFMsAvuWO0=
+
+Name: assets/209a0.png
+SHA1-Digest: EnPsrSq7hj9CwcasP0wdjaI0EOs=
+
+Name: assets/sound/ogg/bg02_02_1.ogg
+SHA1-Digest: LyOn8F1ces1DNflhIyFbCjsh/0c=
+
+Name: assets/111.plist
+SHA1-Digest: sRj9mClH67FMPN8mrGM+HLmy1T8=
+
+Name: res/drawable-hdpi/gc_center_safely.png
+SHA1-Digest: LptbqhN3h7vkzhs8/GbQLz2MqX0=
+
+Name: assets/Charge.xml
+SHA1-Digest: eN9QL+xxqc9hUzOmZLttCWwoLOA=
+
+Name: res/drawable-hdpi/gc_recommend_hall.png
+SHA1-Digest: 7twQeISAduc9qlGnnGKAsVoNyho=
+
+Name: assets/cn/config/ProducerList.plist
+SHA1-Digest: qSbpLQfWAg+1VFMTysXdEX80BYM=
+
+Name: res/drawable-hdpi/gc_gamepad_rb.png
+SHA1-Digest: Nsb5nAh3Yn/yD+qNMlhI5znqlXs=
+
+Name: assets/205.plist
+SHA1-Digest: Odt1kDbM8YpOgNGq8+eR2naWAAU=
+
+Name: assets/tollgate/t116.plist
+SHA1-Digest: 7U/Rb3solYtrm6NOUkby4Rli9h4=
+
+Name: assets/p_6.png
+SHA1-Digest: f1ICnkYLXPqjz2jODhN+KiifnQc=
+
+Name: assets/119.png
+SHA1-Digest: yk5meBkHeEycWI/zfHGDNa6o/Es=
+
+Name: assets/217.png
+SHA1-Digest: DgkEkjt21rnEzKH1Kkl8XJ7c714=
+
+Name: assets/en/ad.png
+SHA1-Digest: XASddyA9qkCivg/JLEPffciwAWE=
+
+Name: assets/SparkExternal.plist
+SHA1-Digest: m/k73/r3I6ulGgYPuZ39ElCEDaU=
+
+Name: assets/202.plist
+SHA1-Digest: 7wEdWBlU+R3gP1sw+PVLejLc+Mc=
+
+Name: assets/107a0.plist
+SHA1-Digest: QHT1wyEWcNz6vUFQK8jONz2VId8=
+
+Name: assets/tollgate/t114.plist
+SHA1-Digest: lwj3MDzpQ7aUZji1LSQVSKuSvkc=
+
+Name: assets/103.png
+SHA1-Digest: o7Dt5z/WY64copSpCYVvb8WmuqU=
+
+Name: assets/en/mid.png
+SHA1-Digest: GtDdbSdyxWy2kslV5A8TUkFfuHo=
+
+Name: assets/sound/ogg/yx01_em.ogg
+SHA1-Digest: KivJsE9loWpfM/iGVwPKPPxXpHA=
+
+Name: lib/armeabi/libmegjb.so
+SHA1-Digest: UatjEWf0oaehczO8AVBasaM56DE=
+
+Name: assets/206a0.png
+SHA1-Digest: FnBTMbFu3Vpi4vyi//pu6kPFuhY=
+
+Name: assets/tollgate/t137.plist
+SHA1-Digest: MHG+yvZKPzU7d5WhD6emGvx3Obk=
+
+Name: assets/210.png
+SHA1-Digest: eFQ87r2AMXyxKmi69N6AgVT738w=
+
+Name: assets/114.plist
+SHA1-Digest: rBdJv9m/3pNceBRb1b0h4YLM/yw=
+
+Name: res/drawable-hdpi/gc_recommend_flow_two.png
+SHA1-Digest: Rw8PbfxxK/j8+29jR9Urg8li5PM=
+
+Name: res/drawable-hdpi/gc_step_unfocus.png
+SHA1-Digest: PXdznnqRMI3Scbobhf6vaqw+X8c=
+
+Name: assets/com.idealdimension.EmpireAttack.L
+SHA1-Digest: GSoFR+6tg4qN77y5wiaqecXnxz8=
+
+Name: assets/206a0.plist
+SHA1-Digest: Pun/KRCxVR/SUPMLvm5NRZSQSDc=
+
+Name: res/drawable-hdpi/gc_leaderboard_contacts_icon.png
+SHA1-Digest: ytk884nZFLX7mnGcK/vQhZJpK3E=
+
+Name: assets/en/hud-2.plist
+SHA1-Digest: 5CJ4Jumhbd1+HC0sODn7m/N2x4Q=
+
+Name: assets/207.png
+SHA1-Digest: mWS2L6IWI1uZWLkCbbFifM7Rc6M=
+
+Name: assets/225.png
+SHA1-Digest: JzIEFnCxLgHi5DeCspYGyYQRfmc=
+
+Name: assets/tollgate/t111.plist
+SHA1-Digest: Uk90JgxKD3D//DK3oTko4yR5isA=
+
+Name: assets/sound/ogg/yx01_gx.ogg
+SHA1-Digest: pbB9+vDOttQzP8Gdae98AsFfpgo=
+
+Name: assets/114a1.plist
+SHA1-Digest: TmZ/TkjS71IDM7hiu2NZcRcxKAw=
+
+Name: assets/cn/rank_people.png
+SHA1-Digest: UzkNc5Wj2GgLmmUblZnRel/czFw=
+
+Name: assets/en/time.png
+SHA1-Digest: FkhuWOuJ1GTbnXa3PHtuvsHLg3Q=
+
+Name: assets/tollgate/t129.plist
+SHA1-Digest: gInr3OisGfix38Uu1XLpUhXWzNc=
+
+Name: assets/102a0.png
+SHA1-Digest: dcJQY2VogRZniM4SRwMq4z/hNQs=
+
+Name: assets/effect_2.plist
+SHA1-Digest: TCfTDYNiBcSAkb+K0ulejmVi9Mk=
+
+Name: assets/216a0.plist
+SHA1-Digest: H18aeIdXNZU1bCiqj7chEwFoLNU=
+
+Name: assets/218.plist
+SHA1-Digest: 5YBxG4Nn3Mtly32jUTSTzNE3G0E=
+
+Name: res/drawable-hdpi/gc_member_green.png
+SHA1-Digest: qRQyD+6ubpC7EgT520DpXHwjpdw=
+
+Name: res/drawable-hdpi/gc_leaderboard_rank_icon.png
+SHA1-Digest: NtewBZDAtbmjHH1CXxjqBCEm/P8=
+
+Name: assets/p_2.plist
+SHA1-Digest: RwRZEnKwIc89HYVvisvGf1eUfi8=
+
+Name: assets/tollgate/t106.plist
+SHA1-Digest: 3N7+iDJx0d0kMqR9tW1B17beVUc=
+
+Name: assets/en/rank_text.png
+SHA1-Digest: ff6nnCSbdVKYNSREQrFBnjEF5aw=
+
+Name: assets/104a0.plist
+SHA1-Digest: 9GZmvZHRP80gbkBKC+2kjvnJxpk=
+
+Name: assets/Font/number_5.png
+SHA1-Digest: aqunKStHVrskXCAt2BP+V4XyJV0=
+
+Name: assets/224.plist
+SHA1-Digest: +AhT7pHOi1U3F7qd9DcWF4DwDaY=
+
+Name: res/drawable-hdpi/gc_arrow_big.png
+SHA1-Digest: +6pkcQ3d8FJgyXhKw+NCcJdzs14=
+
+Name: assets/209a0.plist
+SHA1-Digest: CCVCcXPHaEGgV8/4cBe8fncIFCI=
+
+Name: assets/116.plist
+SHA1-Digest: NhrAXwSSGYiAugsxSirjdzz/QHA=
+
+Name: assets/en/bg/SceneBG.png
+SHA1-Digest: LSvJVALrwhk1wdN6vYhpJVBgM6I=
+
+Name: assets/201a1.plist
+SHA1-Digest: tXDCVcfVSVVz6y7q5tgfEkq+c28=
+
+Name: assets/libsecexe.so
+SHA1-Digest: p/J7T+tEx1zmtWL+jBJe/jcJ2OQ=
+
+Name: assets/Font/kill_number.png
+SHA1-Digest: aFTucA1EmGTyXtAZ1WdShPlVHcw=
+
+Name: assets/tollgate/t135.plist
+SHA1-Digest: AFyDkbr+3k5jXUYYLjxbamYXfJg=
+
+Name: assets/strip/strip_border_mid.png
+SHA1-Digest: 58iSh3LYNjiTeVQNtu2OCDhJRI4=
+
+Name: assets/meta-data/rsa.sig
+SHA1-Digest: eAmtTdQ7wMRiKYtAVvJKYbrjNmk=
+
+Name: res/raw/opening_sound.mp3
+SHA1-Digest: novnldK+EEXDlz6XKfdZaDg1on4=
+
+Name: res/drawable-hdpi/gc_animation_game.png
+SHA1-Digest: s2bXtwNOo4wzJHmUmnohofx9lVA=
+
+Name: assets/sound/ogg/PY17.ogg
+SHA1-Digest: RfVK1a448tbfMxzN5S31MWUzMU8=
+
+Name: assets/sound/ogg/yx01_gb.ogg
+SHA1-Digest: 7tajqnIgimRmhvJEqPZyKWFcPcE=
+
+Name: assets/Font/rank_number.png
+SHA1-Digest: 49Wf3QG+MX1tTEVI40DvfpHqNms=
+
+Name: assets/p_5.png
+SHA1-Digest: mhD/L/cqRi71lGkxuzdjBqB1uzg=
+
+Name: assets/en/config/word.plist
+SHA1-Digest: FXdJ8cO+E8lGKX1g4ZrKWZHTvyA=
+
+Name: assets/120.plist
+SHA1-Digest: nUNoSo3bkEvZeO6nTc+w4j22adw=
+
+Name: assets/Config.xml
+SHA1-Digest: W5rb5Rwxyw654wBQX9LkG9WZ/t4=
+
+Name: assets/tollgate/t141.plist
+SHA1-Digest: HjYKWcyiHWvZVsMl2N3X6dIdSk8=
+
+Name: assets/skill.png
+SHA1-Digest: C3z+2xcp4A4r6uxpTc83s34iI+o=
+
+Name: assets/218.png
+SHA1-Digest: b/O6EcUVlthPIlfvzhBkjTXucos=
+
+Name: assets/effect_3.plist
+SHA1-Digest: j9rAP53BrARF+c2K15B8DF7ozXM=
+
+Name: assets/CMGC/ConfigExtend.xml
+SHA1-Digest: /cOgEoxYQEvGK5NtIYR++a7YCn8=
+
+Name: assets/214a0.plist
+SHA1-Digest: EUQbxT+rBm0GFTDQjvzXeF+zqIk=
+
+Name: assets/en/ani_1.png
+SHA1-Digest: mcoPuHnU26h6LbmS+SeR5NiPOGI=
+
+Name: assets/ChoiceSolider_panleMiddle.png
+SHA1-Digest: i+5i+zuPjJ+oGGdulTKLoEfSwts=
+
+Name: assets/cn/ad.png
+SHA1-Digest: jZtEvEW8TMH74A8HFVizsMaCzqA=
+
+Name: assets/en/hud-2.png
+SHA1-Digest: VTkRvZCDVIDYnJSf/d1kz3UaCY0=
+
+Name: assets/p_8.png
+SHA1-Digest: pstYgnT/2Wwn75o5MLd4IJFYaY8=
+
+Name: res/drawable-hdpi/gc_contract_pressed.png
+SHA1-Digest: pdqvrwEoxLuVDQVWCFEBfgImgeQ=
+
+Name: assets/209.plist
+SHA1-Digest: PStFnQaLaQLkg+rtVV/ORU8E1UE=
+
+Name: assets/ep_3.png
+SHA1-Digest: SKb/g21BkmyQQKT8UKlEPB4UcYA=
+
+Name: assets/211.plist
+SHA1-Digest: WqbhFFJQDuE/ZlwAcrZ1RA9tvhU=
+
+Name: res/drawable-hdpi/gc_animation_and.png
+SHA1-Digest: 2QKXbmq3KS9gCAlh6FpbVvHGPEQ=
+
+Name: assets/203.plist
+SHA1-Digest: YYdYLHCMRQ8CHQmK0ZrgrwPSDf0=
+
+Name: assets/114.png
+SHA1-Digest: XapEqy5O/JG9y94r37dBiBmjypw=
+
+Name: assets/cn/config/achievement.plist
+SHA1-Digest: qfBv9DD+MpuBwwrnLp/4cvm8m5o=
+
+Name: assets/tollgate/t138.plist
+SHA1-Digest: w45I0e5N9FYk7OHHdnqHFndcB5w=
+
+Name: res/drawable-hdpi/gc_gamepad_stick_r.png
+SHA1-Digest: YHXMeN7g+Sdck8eLdKi3dJGlQ0E=
+
+Name: assets/SparkInternal.plist
+SHA1-Digest: vl0ErRM1/QPeOAHY9H1A1fXkVak=
+
+Name: assets/cn/hard.png
+SHA1-Digest: 1Oiw108hsh1pHoOX3mwSaNTcBXw=
+
+Name: assets/223.plist
+SHA1-Digest: ffATA4yd5i1qZicHrQrt6kgxrD0=
+
+Name: assets/Font/number_4.png
+SHA1-Digest: zCYpLqMQI+H7lMZ5MOzi7rapr3Y=
+
+Name: assets/tollgate/t146.plist
+SHA1-Digest: fea1IFT0OMOPb7Up3mITlgfMAbU=
+
+Name: assets/102.png
+SHA1-Digest: wc8eBblodM3GCq88rNgTPOFeico=
+
+Name: assets/strip/strip_begin.png
+SHA1-Digest: qtQTf0ntjvmKC5qceYI7PnDYbxY=
+
+Name: lib/armeabi-v7a/libmegjb.so
+SHA1-Digest: uZGP8XWe/EB8X7NVNiSO3EHp/es=
+
+Name: assets/meta-data/rsa.pub
+SHA1-Digest: Z6R8DD7pqiCiYh4iPGwyZK0z/Zc=
+
+Name: assets/105.plist
+SHA1-Digest: +9kKq7vNnmo4kM16RSPCXKTwYE8=
+
+Name: assets/108a0.plist
+SHA1-Digest: owFKkz291CTieobjWxldSfIxYtw=
+
+Name: assets/CMGC/GH.data
+SHA1-Digest: 1Az26Q2AkXF8dO65z8G0HKTClzI=
+
+Name: res/drawable-hdpi/gc_drag_hide.png
+SHA1-Digest: IT4TanS0d3xV2OWOekH03h2B+NM=
+
+Name: assets/112.plist
+SHA1-Digest: s0pR12tF5aNxFqXUWVtvQcJRJJ8=
+
+Name: assets/sound/ogg/PY07.ogg
+SHA1-Digest: 12H7As2Auztxs5ObPY6P9L90Xvo=
+
+Name: assets/217.plist
+SHA1-Digest: Du8sGZgkKUewzU4qQIyTx3++5RQ=
+
+Name: assets/en/skill_show.png
+SHA1-Digest: SLVUhqwjWpcsJnZd0eiPzaPIjU0=
+
+Name: assets/en/hud-1.plist
+SHA1-Digest: SkklRaYm2T2uluohcxXpkgMk38c=
+
+Name: assets/102a0.plist
+SHA1-Digest: KrxJry5tPXDSVSARwbs3IJ2Kylw=
+
+Name: assets/sound/ogg/yx01_dldb.ogg
+SHA1-Digest: mrpaBPKSt0rZuSF4wf+7nlbOQKc=
+
+Name: res/drawable-hdpi/gc_center_help.png
+SHA1-Digest: XZScfe22dyMJYeaghww1mu1BR9w=
+
+Name: assets/117.png
+SHA1-Digest: Vq2RDdQyprmETBOB7A4n6qQgfTU=
+
+Name: res/drawable-hdpi/gc_gamepad_enter.png
+SHA1-Digest: 1LKVlXHFonW85gkLrenQ4LsNafs=
+
+Name: assets/201a0.png
+SHA1-Digest: q10t+ZHFY4gIDy2nRgx48j84+aE=
+
+Name: assets/215.png
+SHA1-Digest: WXTUMQXg1Zfm6mBOVXB2g41VSWA=
+
+Name: assets/223.png
+SHA1-Digest: 4/oCr0L9cjSiyXVxfi7KnDGF8nI=
+
+Name: assets/ep_3.plist
+SHA1-Digest: 4WMP2kCI02dxD8PVWeizwE4/3Cw=
+
+Name: res/drawable-hdpi/gc_start_cmcc.png
+SHA1-Digest: YfFys0PP7SsJOM1oHr/vwdohucs=
+
+Name: assets/204.plist
+SHA1-Digest: ogjXhSOefCcfVoUB9gXPhPlw1Fk=
+
+Name: assets/tollgate/t145.plist
+SHA1-Digest: H0gZc0r3WqJDWkPQoNb9iQk4VAM=
+
+Name: assets/tollgate/t105.plist
+SHA1-Digest: RozC0JuU7dvdT8ySlZDehBF+CNo=
+
+Name: assets/202.png
+SHA1-Digest: ns+m45QKj2PAJ1vgBBfT9nAA4IM=
+
+Name: assets/en/hud-0.plist
+SHA1-Digest: RY9h+xXjLbqa8VCDe8CVHQ1/iF4=
+
+Name: res/drawable-hdpi/gc_animation_cmcc.png
+SHA1-Digest: vUx6dLixetiJeD1k1klmDe8gtow=
+
+Name: res/drawable-hdpi/gc_start_logo.png
+SHA1-Digest: pZvxvFEzeqbbGkeVCRsrlEoUV9g=
+
+Name: assets/216.plist
+SHA1-Digest: pIBmyXkOtfJiZ2xocic9sgjT6+Y=
+
+Name: assets/203a0.plist
+SHA1-Digest: hfoshBHHw3u68OTWfcMmHr1/Wkg=
+
+Name: assets/new_rank.png
+SHA1-Digest: n42ZRCe2903U3HRRZB1h/Gakq8w=
+
+Name: assets/en/kill.png
+SHA1-Digest: vh+5NNHuRi7oGKsOmP2ni1Koyew=
+
+Name: assets/114a0.plist
+SHA1-Digest: tVz6MXgLy+06KSNLwSaxHTRhuE8=
+
+Name: assets/GuideView_TextPrompt.png
+SHA1-Digest: dRZZrQk7/PW+VpgBEXpyv79szF4=
+
+Name: res/drawable-hdpi/gc_notification_icon.png
+SHA1-Digest: clKeUhJsmrqs/+JK08C7uVYbFjQ=
+
+Name: assets/mode_lock.png
+SHA1-Digest: FV5kS4CwSDmVbMDSTxzSA8H+B04=
+
+Name: assets/210.plist
+SHA1-Digest: u2ROWyLCLEG6rhEJUsFfMoWzV2A=
+
+Name: assets/ep_4.plist
+SHA1-Digest: gEoiUtpcSnzobTUYOQCfDLGWG0Q=
+
+Name: assets/tollgate/t139.plist
+SHA1-Digest: /AjEy9+LQSB2w3KdmlIVArFUXHg=
+
+Name: assets/sound/ogg/PY16.ogg
+SHA1-Digest: GkeZNHpRQ3p62oUvYu72FGMx0GM=
+
+Name: res/drawable-hdpi/gc_share_sms.png
+SHA1-Digest: sqOZFibO5MaLpZtsQ5aKChjP5qE=
+
+Name: assets/en/normal_toll_gate.png
+SHA1-Digest: Pmh2ajadc/z6YIpnV+BgflVxMVM=
+
+Name: assets/com.idealdimension.EmpireAttack.x86
+SHA1-Digest: K5HwM7ik6yJ/jLyE9DV4FEkibuU=
+
+Name: assets/sound/ogg/yx01_jy.ogg
+SHA1-Digest: T8YiADJZSxB/eQ1s3uAz9NnqDaM=
+
+Name: assets/blood_bg.png
+SHA1-Digest: k9cxG6t8rQfkWj9myndn4E5bYF8=
+
+Name: assets/sound/ogg/bg02_04.ogg
+SHA1-Digest: ikH+3AxId5DSf0TGMawuNS4uBAw=
+
+Name: assets/tollgate/t104.plist
+SHA1-Digest: vb5yNAPnHCFQOL4vXE6Ac4K+Ijc=
+
+Name: assets/209.png
+SHA1-Digest: bckmPV6BZ7c3BRWEOwiMjmn1EOY=
+
+Name: assets/libmegbpp_02.02.09_01.so
+SHA1-Digest: l6QCp6eFyqfSSbL1Wgp8u2Hstzw=
+
+Name: assets/212.plist
+SHA1-Digest: 9VFtSs+t7RnPx6aTDh49SMb+KmY=
+
+Name: assets/tollgate/t147.plist
+SHA1-Digest: iew5y6My0n57gqOmFXuD32cjcp8=
+
+Name: res/drawable-hdpi/gc_start_game.png
+SHA1-Digest: U5WwLIWRU81KPIgybXokzLChtmQ=
+
+Name: assets/104.plist
+SHA1-Digest: LkLRNQp8W+XTelfHf87dReJdOoA=
+
+Name: assets/101.plist
+SHA1-Digest: Yd8ws4klXLCxMoFsr6ARQQcjVWU=
+
+Name: res/drawable-hdpi/gc_gamepad_zoom_in.png
+SHA1-Digest: SHnvVmHi3O3wtEDrdmgEYf0gPxM=
+
+Name: res/drawable-hdpi/gc_arrow_text.png
+SHA1-Digest: JLnDeyltRCHmdNrWDq+OOPl1CJc=
+
+Name: assets/sound/ogg/yx01_kbz.ogg
+SHA1-Digest: onM2Dq6DMk5yC8wIIDymg0u/Rxg=
+
+Name: assets/en/rank_people.png
+SHA1-Digest: 9MaTRScFUt7+GQPDTBms+UC5gXU=
+
+Name: assets/en/hud-1.png
+SHA1-Digest: qgHACugVsVZE2LQE64Jjh7Z+hFk=
+
+Name: assets/700004_mask.png
+SHA1-Digest: 3WYAkAwcbSwoeUWPgIhtTflR5fA=
+
+Name: assets/sound/ogg/bg01_02.ogg
+SHA1-Digest: cVuazKnbpXXaXrRbm7nfya8ZZik=
+
+Name: assets/Font/number_3.png
+SHA1-Digest: 62x2CLLD5T9obhZnuCfu0b2+DI4=
+
+Name: assets/121.png
+SHA1-Digest: HZbtxC0bZSObDE1XjGP0yQhAT1o=
+
+Name: res/drawable-hdpi/gc_leaderboard_title_remind.png
+SHA1-Digest: H8el/bVyHXVIjmFSS7VHIvvo7kY=
+
+Name: assets/101.png
+SHA1-Digest: h8pryPJ1uxYX1Rw/TIAfnNazOeQ=
+
+Name: assets/sound/ogg/yx01_an.ogg
+SHA1-Digest: Me8BBwMIUsES4/HbwtdShgdh6ZU=
+
+Name: assets/221a0.plist
+SHA1-Digest: 5b3JiOa5ZTp3LQBrbobzO7V6lgU=
+
+Name: assets/215.plist
+SHA1-Digest: o9iLomncjpseOnevuGKr7xTZV1Y=
+
+Name: assets/115.png
+SHA1-Digest: zppwS+eZO/Oz7Gw1YW2NJtRPT6Q=
+
+Name: assets/en/config/shop_info.plist
+SHA1-Digest: W6CW00+WzsZIzaUTCjF/fxeKUHI=
+
+Name: assets/102.plist
+SHA1-Digest: BpPzBUWAsYRwn6O+RyW434ZXWis=
+
+Name: assets/116.png
+SHA1-Digest: jjfHRG0ut4NjJUFgDJKdOrso9/c=
+
+Name: assets/tollgate/t149.plist
+SHA1-Digest: S+5yGCPWY+3x4yvh5w1cX7r2UI8=
+
+Name: assets/201a1.png
+SHA1-Digest: Lm0T65zZ9wjzM/N7t/ewUQxgUSw=
+
+Name: assets/207.plist
+SHA1-Digest: m5FB6HVwZcTVrptU5XEvJUrZriE=
+
+Name: assets/226a0.plist
+SHA1-Digest: 3JaQbe4uaCLAY7+hiCO54z34vqk=
+
+Name: assets/222.png
+SHA1-Digest: MFrjRPqitWoauZsS+/mEVYklFPU=
+
+Name: assets/sound/ogg/PY15.ogg
+SHA1-Digest: vDMa7yljpwUqq0BUHH4zIfQTldk=
+
+Name: assets/load_bar.png
+SHA1-Digest: Srt7VMqGIJKGZNRP4Gn1E/hR/ZI=
+
+Name: res/drawable-hdpi/gc_leaderboard_portait_divider_line.png
+SHA1-Digest: TzGdVQKHOwyO43YZujmqRAs1/84=
+
+Name: assets/tollgate/t102.plist
+SHA1-Digest: imLwguMPDs8WGc59DhcdtBGqDkQ=
+
+Name: assets/109.png
+SHA1-Digest: Y6vHJYA6F/qp1yn/JEr7uGMDa9w=
+
+Name: assets/214.plist
+SHA1-Digest: qaHt7jLZdXxWBseGxSO2IMQKrZg=
+
+Name: assets/208.plist
+SHA1-Digest: iKpN3EqEfgYrm/eAjiU35j6HsCs=
+
+Name: assets/en/boss_kill_show.png
+SHA1-Digest: HVkYBsHjadlX0uCg2m8fo3Hp01M=
+
+Name: assets/103.plist
+SHA1-Digest: ACrwAKu2z6R1sVj2FSfML5oxxfs=
+
+Name: assets/cn/mid.png
+SHA1-Digest: bfGPvBenWrlfhp1vJ27ygie/85A=
+
+Name: assets/cn/rank_text.png
+SHA1-Digest: hjsl5gIHkLkT+YNpmzDmWyIlQp4=
+
+Name: assets/216.png
+SHA1-Digest: lxNS44F4kPhqZvXNMV3Vf0f7qYc=
+
+Name: assets/tollgate/t148.plist
+SHA1-Digest: i5A6olsBcqjFWCIBTr6DwgGT8QM=
+
+Name: assets/p_7.png
+SHA1-Digest: tOcsbFIk7wszOOimDB+AapfZad8=
+
+Name: assets/cn/ani_1.plist
+SHA1-Digest: oxERt3Ze5quCvpRmAn3vBL0Lh3E=
+
+Name: res/drawable-hdpi/gc_contract_press.png
+SHA1-Digest: S/AfE6wgmxjCzt9bN9HBpeh5lJI=
+
+Name: assets/213.plist
+SHA1-Digest: ke2nCyYZwmkIH8t45yrHXvJvzgU=
+
+Name: assets/sound/ogg/yx01_dk.ogg
+SHA1-Digest: 3rk8ZWTALxm43X1zbUEX97ziqcg=
+
+Name: assets/tollgate/t101.plist
+SHA1-Digest: QcDSPqvrMGZ0o2ImnmSYnwkJBhg=
+
+Name: assets/story.plist
+SHA1-Digest: y3Ps+vB/PaWA5ITsBdIfuz3Qbv0=
+
+Name: assets/strip/strip_border_left.png
+SHA1-Digest: CgsxbcgnMyaPX3RIeX2wmqWfHcA=
+
+Name: assets/ep_1.plist
+SHA1-Digest: hQYRm08YKS1eDUlcagGrGgGti2U=
+
+Name: res/drawable-hdpi/gc_leaderboard_default_icon.png
+SHA1-Digest: LR8R0d40S4uLTkDkFeqkMdmS3i0=
+
+Name: assets/wangzhi.png
+SHA1-Digest: h+qDAT3wfi4LnsVE3xELcZc7Eog=
+
+Name: assets/tollgate/t150.plist
+SHA1-Digest: Qi2D7ZKGI3otKg3kf+4UhvrygN8=
+
+Name: assets/sound/ogg/bg02_03.ogg
+SHA1-Digest: 64hIBxZTXYhhd9r4JR6xtSc4oKc=
+
+Name: assets/tollgate/t128.plist
+SHA1-Digest: XE7TmdpADAi88DCh+iYrl4zfOQs=
+
+Name: assets/Font/number_2.png
+SHA1-Digest: Bv9ygeDfdfxPvusCXRD0A6X9SAE=
+
+Name: assets/219.plist
+SHA1-Digest: z7qQQbxyfzmr/oxqGTqqcH2xeQk=
+
+Name: assets/tollgate/t110.plist
+SHA1-Digest: 2NmCeoMGoQy8tkZcQAU2IJjEyQ0=
+
+Name: assets/effect_1.png
+SHA1-Digest: fPQHFXbsizp2eV+QzVNx6nYHCow=
+
+Name: assets/strip/strip_background.png
+SHA1-Digest: OggDqRKSCvpJaXfJsbnxbk7B4JU=
+
+Name: res/drawable-hdpi/gc_leaderboard_light_green_selector.xml
+SHA1-Digest: xeVShBNePTnVUP2KsgdsHMmvrD0=
+
+Name: assets/700001_mask.png
+SHA1-Digest: /OZOAqDaV/ZJzBQ7/oy4Udm6pBA=
+
+Name: assets/Info.plist
+SHA1-Digest: AG8nQ6u1/KZxsjILjz3O/+7Ioz0=
+
+Name: assets/114a0.png
+SHA1-Digest: vRIObQv87Oxw84uzJFwUBrYNOc0=
+
+Name: res/drawable-hdpi/gc_gamepad_x.png
+SHA1-Digest: PKMXa93znqh8MLT2pIgTWDBzLTs=
+
+Name: assets/ItemListBG.png
+SHA1-Digest: FpYrLDUxK7Ck+veKz69GAUj6J0M=
+
+Name: assets/sound/ogg/bg01_01.ogg
+SHA1-Digest: M3uJU3uxdwDbDl6WJz1Tqu7Vmps=
+
+Name: assets/en/hud-0.png
+SHA1-Digest: BzLLEA+ppVTcke4jlPtMwMwmb6g=
+
+Name: assets/218a0.plist
+SHA1-Digest: H82RMe0U4IF0+pvut+6lP0Eg9B0=
+
+Name: assets/204a0.plist
+SHA1-Digest: mIYy3nuTM1hki8Ftx9Wsy2B0MeE=
+
+Name: assets/206.plist
+SHA1-Digest: wxp9r0Ba2WKTfr7Op7D4hLni52c=
+
+Name: assets/tollgate/t123.plist
+SHA1-Digest: l/USlJfhn8txmxXlgwZbyiBsw5o=
+
+Name: assets/224a0.png
+SHA1-Digest: voqdLaSHLLCE7MbUf/OribWfh+8=
+
+Name: res/drawable-hdpi/gc_gamepad_zoom_out.png
+SHA1-Digest: M+Qbc+Qqt+KgvF2eFXj4YCRUvAM=
+
+Name: assets/sound/ogg/yx01_sjyb.ogg
+SHA1-Digest: S3X76956C3Q+kgFP8+L4z0itW9g=
+
+Name: assets/sound/ogg/yx01_hd2.ogg
+SHA1-Digest: l+K7Px+AIYw8xUgK3Izni0EyzPA=
+
+Name: assets/sound/ogg/yx01_mp.ogg
+SHA1-Digest: IbCiflI9jp/BkEQiwi00g4tEZn4=
+
+Name: assets/224a1.plist
+SHA1-Digest: yJK0YXMNR64Sa/HUkMi/Lnk/MGQ=
+
+Name: assets/AndGame.Sdk.Lib_20119_0726909FE4B0A3E9A8FD91FB9ABBF322.dat
+SHA1-Digest: 2bvqc9u+9thZM9ZTN88po581o/A=
+
+Name: assets/p_6.plist
+SHA1-Digest: xwopRYa90eqagBGveOWlig8TwyU=
+
+Name: assets/220.plist
+SHA1-Digest: Le/nUkPOupWasOOo8mytS6thmns=
+
+Name: assets/110.plist
+SHA1-Digest: TdKoH8xqW7MyVXMfvNYlcSrAeO0=
+
+Name: assets/213.png
+SHA1-Digest: pz4ZgIQs8dJe5vq9oT/60HqWoXw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Kd3Zv5vVRddHAUNLgtiNn+TORMM=
+
+Name: res/drawable-hdpi/gc_gamepad_b.png
+SHA1-Digest: hwMNozwpUGS0zNkpo0jDJuielZ4=
+
+Name: assets/en/boss_kill.png
+SHA1-Digest: qHcjnEuRm2qCi9ytLDweeC7UYpU=
+
+Name: assets/cn/hud-1.png
+SHA1-Digest: P5KOVFBsoNQ1YX5cgXbMEbbyTHM=
+
+Name: res/drawable-hdpi/gc_member_yellow.png
+SHA1-Digest: iMNDicu3MqlWEe9AqMWL/HkDPkw=
+
+Name: assets/108.png
+SHA1-Digest: n7hWQGxqmzMyWByBc5zK89LlmX8=
+
+Name: res/drawable-hdpi/gc_center_recharge.png
+SHA1-Digest: FY+gE+oh+BAkow2LENJPGAU8vkE=
+
+Name: assets/700006_mask.png
+SHA1-Digest: NQboMAtE+lVKg0MAWpbVRahdut0=
+
+Name: assets/effect_1.plist
+SHA1-Digest: ICJr3QKzMfwWN9PHmgQlRV7+Guk=
+
+Name: assets/CloseImg.png
+SHA1-Digest: clmvSQecjzxihzd0mvofvGN+7kg=
+
+Name: assets/cn/hud-1.plist
+SHA1-Digest: ZiJZbjtVuNFgMgiJqsQ4kgBQBK0=
+
+Name: assets/en/config/achievement.plist
+SHA1-Digest: Lr11ajPmtVgUPnZJTSJB1wfROHc=
+
+Name: assets/sound/ogg/PY14.ogg
+SHA1-Digest: W5HxeuP3GdfnQyGsI4qnJzyrSlM=
+
+Name: assets/en/collect_update.png
+SHA1-Digest: i7vHZOZvER83TEECXFS3SYUquUU=
+
+Name: res/drawable-hdpi/gc_center_look.png
+SHA1-Digest: zp1RUZ4Lu0PuOQyeF8R9wiSLJU4=
+
+Name: res/drawable-hdpi/gc_leaderboard_rank.png
+SHA1-Digest: himHja3FOFNXTmUt/swzYaLuqxo=
+
+Name: assets/cn/hard_toll_gate.png
+SHA1-Digest: 2Eu2BK5H4krrz50daMKRANnthDw=
+
+Name: assets/sound/ogg/PY01-2.ogg
+SHA1-Digest: ZDZuCQs1655yRZeHVGO4YBn+NRg=
+
+Name: assets/cn/config/shop_info.plist
+SHA1-Digest: 91eHG8tzsemDbMaaZDeqvxrR/LA=
+
+Name: assets/tollgate/t115.plist
+SHA1-Digest: JHsB9NHaOeCwDibI7NHWOV2wq3g=
+
+Name: res/drawable-hdpi/gc_start_login.png
+SHA1-Digest: z4LuozDZ81K6IsGrrVrmKCCnwTA=
+
+Name: assets/ep_4.png
+SHA1-Digest: PCkdfHhpLRjkHW06FGWAP1atePY=
+
+Name: res/drawable-hdpi/gc_leaderboard_waiting_verify.png
+SHA1-Digest: 2y6G8YvluDIPihPy+Rax5TYcT0s=
+
+Name: assets/cn/boss_kill.png
+SHA1-Digest: lpZa31Onx+FLMbGuKMSoO+/y7RQ=
+
+Name: res/drawable-hdpi/gc_leaderboard_list_divider_line.png
+SHA1-Digest: xA7k/Tkr90AuK825u8MF0q6jT3s=
+
+Name: res/drawable-hdpi/gc_leaderboard_contacts_phone.png
+SHA1-Digest: 503kdzmJwTO0PPsDqB4xgkROJz0=
+
+Name: assets/kills_progress_bg.png
+SHA1-Digest: YOPQy23HP1cOD09LnXyj903pWZ4=
+
+Name: res/drawable-hdpi/gc_leaderboard_search_friend_icon.png
+SHA1-Digest: KkRkV9Wn5aOi+RTfaMVd6fkZx1o=
+
+Name: res/drawable-hdpi/gc_leaderboard_invite_friend.png
+SHA1-Digest: mD//okqNldj4pZHTyaogOlVimUQ=
+
+Name: assets/204.png
+SHA1-Digest: NT7Wg7Lus4MGADty95dK/wRwRzQ=
+
+Name: assets/110a0.plist
+SHA1-Digest: Nsj+pYeI1uOdcxbSY6klDgcdigI=
+
+Name: assets/221.png
+SHA1-Digest: 3qCvqKRQOLS4y6kHl47hRnsZM70=
+
+Name: assets/sound/ogg/yx01_xb.ogg
+SHA1-Digest: I0D/GdDxzECUvS20hZg8PQMMUGc=
+
+Name: res/drawable-hdpi/gc_gamehall.png
+SHA1-Digest: Hegj+WTK7VD/Aby2s9AYBSepI00=
+
+Name: assets/en/mid_toll_gate.png
+SHA1-Digest: GjHOgi5ti0eOL4xabMW4rKgzrS8=
+
+Name: res/drawable-hdpi/gc_more_game.png
+SHA1-Digest: PiFAtpDqTH3CR+wwH+gcA016RSc=
+
+Name: assets/tollgate/t144.plist
+SHA1-Digest: zHXocniP0bJtmoZkh4WHqHzgaI8=
+
+Name: assets/tollgate/t134.plist
+SHA1-Digest: rHqr0y3yi433935lG9E55Yi0yWU=
+
+Name: assets/203a0.png
+SHA1-Digest: jazC8xh6wE6iGStxrbfN/lQHjak=
+
+Name: assets/107.plist
+SHA1-Digest: YLbAkJHeIPLjt6zPQhzwIDdKbgI=
+
+Name: assets/wuxian1.png
+SHA1-Digest: GsBxUrhshAVZ9QC2tAzdgiB4YHs=
+
+Name: assets/libsecexe.x86.so
+SHA1-Digest: M4C5/Tcze1uBQZPTWV5WBJ3AzsM=
+
+Name: assets/222.plist
+SHA1-Digest: GjXgacIJi6uWUz83QbuVVRNVst4=
+
+Name: assets/117.plist
+SHA1-Digest: OR+ZuIMQRsoWonSnxC98sbMXB/Y=
+
+Name: assets/en/config/ProducerList.plist
+SHA1-Digest: MvUzWpaq1U5sD8wvhTqS33M6bls=
+
+Name: assets/219.png
+SHA1-Digest: 0bpHZJI26MQaC9/Ah6TBoT244S0=
+
+Name: res/drawable-hdpi/gc_arrow_little.png
+SHA1-Digest: 4eKvkqoZQ68CZBYc1i+DG+3OELY=
+
+Name: assets/sound/ogg/yx01_dz.ogg
+SHA1-Digest: 0qFDt2b7Cv+zJpaB/A3/0olgkkQ=
+
+Name: assets/226a0.png
+SHA1-Digest: tNiospcEiUj5ycIUrqpGinoDGBA=
+
+Name: assets/sound/ogg/yx01_hd1.ogg
+SHA1-Digest: 4E8ZrjPoheSsv7MPNhP0uIU2qTE=
+
+Name: assets/cn/normal_toll_gate.png
+SHA1-Digest: LElGOV5AVWD/a/6hge550hnVouo=
+
+Name: assets/sound/ogg/PY13.ogg
+SHA1-Digest: qsDJ4Gvtk1MWzaZz3BmLi05sgPQ=
+
+Name: assets/121.plist
+SHA1-Digest: C4GKXHdzo578JNf69RXpMeghd84=
+
+Name: res/drawable-hdpi/gc_title_arrow.png
+SHA1-Digest: chIB5a0/cegVLjZRiU19xEIk7so=
+
+Name: assets/ep_al.plist
+SHA1-Digest: taJJh7MQb79AG4zcNBzWQlwkmVs=
+
+Name: assets/effect_2.png
+SHA1-Digest: 3jVyUPbsZ2VFVm31QWYrfuBQoUY=
+
+Name: res/drawable-hdpi/gc_leaderboard_normal.png
+SHA1-Digest: TyPVe9DsvQ2Ne0mBF3zw/zs8zwo=
+
+Name: assets/700005_mask.png
+SHA1-Digest: oqwxar/atlrzA/KGRYSK+l9LILw=
+
+Name: assets/cn/ani_1.png
+SHA1-Digest: cO1v5fYlrJCZWIyoKlJCg1zRJFE=
+
+Name: assets/cn/hud-2.png
+SHA1-Digest: 1uaLfwcb56GLeZ/JSg36t4+5hJg=
+
+Name: assets/c_data_store.dat
+SHA1-Digest: EUEME/dCBwD9uLg2HBAOjQIcMr4=
+
+Name: assets/tollgate/t109.plist
+SHA1-Digest: S/m+iZ5sR3fpoGjiTHGikYtrF1U=
+
+Name: res/drawable-hdpi/gc_gamepad_raw.png
+SHA1-Digest: SklTSABHOzIhYeltix/qzXj8L+0=
+
+Name: res/drawable-hdpi/gc_logo_cmcc.png
+SHA1-Digest: 0Tq18SL36tH7m8+Ck+HjBQ2+eTk=
+
+Name: assets/skill_update_mid.png
+SHA1-Digest: Lu1qZEBFfiVBXnu6sT5yhfWAVRQ=
+
+Name: assets/bg/bg_01.png
+SHA1-Digest: wFEUpA9gD0JQipC3dJnedZnBpMY=
+
+Name: assets/107.png
+SHA1-Digest: 6bYvLvtnwc40LhTEwL2cEJQ1XBE=
+
+Name: assets/tollgate/t142.plist
+SHA1-Digest: N/HX5L1oI6YmhAKx96C0Oni8tcA=
+
+Name: assets/cn/config/story.plist
+SHA1-Digest: L9ScBbinCy98213vVMK/QYJjoVI=
+
+Name: assets/youxiang_01.png
+SHA1-Digest: BWqMbIP0qz9pmPJgsIyVYIbsOx8=
+
+Name: assets/sound/ogg/PY06.ogg
+SHA1-Digest: H1uL3TyT49qgSdINcZC6tbp6RTU=
+
+Name: res/drawable-hdpi/gc_sound_on.png
+SHA1-Digest: uPfJj69y8EoQa8biBk5idwovXcw=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: 8y9LyDctnWVR1i12T9O9GPk9nfo=
+
+Name: assets/220.png
+SHA1-Digest: FUZKHZZ4pDE5hRbU3wLwFrpUYYo=
+
+Name: res/drawable-hdpi/gc_gamepad_a.png
+SHA1-Digest: P3PqJlD3IP+7mkdJYp6d9vOIp/8=
+
+Name: res/drawable-hdpi/gc_sound_off.png
+SHA1-Digest: xODK/MvnTL2L70vXRrM6xpANzBM=
+
+Name: assets/214.png
+SHA1-Digest: R2AbJanTjvtmMisX6lQFlu4zOSw=
+
+Name: assets/tollgate/t112.plist
+SHA1-Digest: 56ophnP+fBhI0tka+addqthuzw0=
+
+Name: assets/211a0.png
+SHA1-Digest: iGdUm4MH54MGvHCQJXCcazXrNMU=
+
+Name: assets/blood_blue.png
+SHA1-Digest: 0iuWdSsgHxLKMya4WXiLNEGEy/E=
+
+Name: assets/sound/ogg/yx01_hy.ogg
+SHA1-Digest: yBdZTM/4lPpwVeZTucMuu0NOKHI=
+
+Name: assets/109.plist
+SHA1-Digest: kYfNolc6BoD215tkFi/xPuZBEa0=
+
+Name: assets/cn/Font/STXINWEI.TTF
+SHA1-Digest: Pf63JENDY/HHJgXQXv5xdkGU4fw=
+
+Name: assets/en/ani_1.plist
+SHA1-Digest: PL6DymX3WLLIzFUWELyN0xjCChc=
+
+Name: assets/201.plist
+SHA1-Digest: HLxAgR7ZCd/+bI+xBMWpCM790E4=
+
+Name: res/drawable-hdpi/gc_share_sina.png
+SHA1-Digest: sq4VXMNFEmXo4g7/hTIf0akgeM0=
+
+Name: assets/story.png
+SHA1-Digest: auBx0A+Qx/G6eY91pTOwNpJ8BSg=
+
+Name: assets/tollgate/t113.plist
+SHA1-Digest: 7BwPUlJFiqvw9u0I0sixuk0Gxf4=
+
+Name: assets/Font/skill_number.png
+SHA1-Digest: nczm/WUBGglKzFcLQqiyORoLYVU=
+
+Name: res/drawable-hdpi/yougais_shortcutsicon.png
+SHA1-Digest: S4RRVQdcDka5sFSVIwQoIDRRJ5c=
+
+Name: assets/203.png
+SHA1-Digest: OotENc2OO5f+oXs3bzPl+8xWjLI=
+
+Name: assets/sound/ogg/yx01_jnan.ogg
+SHA1-Digest: rXVuXEublwvvK28oWHLygN6/LE0=
+
+Name: assets/tollgate/t107.plist
+SHA1-Digest: Ls7iEWlOaKEbe7Sps/P80GZbh6Q=
+
+Name: assets/title_mid.png
+SHA1-Digest: btlhd49Zi87a/xfnuNoRZOVjOjs=
+
+Name: res/drawable-hdpi/gc_icon_shrink.png
+SHA1-Digest: l7mMdWSoYpvG8honpnBIbnhCmcU=
+
+Name: assets/115.plist
+SHA1-Digest: 6YWixwnecw17aaY3k+vHobpZ548=
+
+Name: res/drawable-hdpi/gc_piccode.jpg
+SHA1-Digest: UAv6o5zOU3zQQmX1u2QFO0foZTw=
+
+Name: assets/700002_mask.png
+SHA1-Digest: 6nzmcNHAAdD5u+7LoQ9TQw5FAPY=
+
+Name: assets/tollgate/t136.plist
+SHA1-Digest: lJyWqkm/LKHLTQ7ei1ddU0YYzg4=
+
+Name: assets/225.plist
+SHA1-Digest: K3QplaQ6k1z/126ZX4WpznlRaWI=
+
+Name: assets/cn/config/word.plist
+SHA1-Digest: 0iTUcFTPAyCJtgNU9hQ04ZY5KfE=
+
+Name: assets/p_1.plist
+SHA1-Digest: fHHUqY+iB4yi36fj/X9YYYcDGs0=
+
+Name: res/drawable-hdpi/gc_title_logo.png
+SHA1-Digest: N6snegxwqHH1/iG/ya3GPifzPCc=
+
+Name: assets/com.idealdimension.EmpireAttack.art
+SHA1-Digest: Db+SgGOaICZy2/25VzOLLPQV9Uk=
+
+Name: assets/201a0.plist
+SHA1-Digest: DnF2DSDWrkIV8VDwFgm8AOq0ID8=
+
+Name: assets/226.png
+SHA1-Digest: KaB2dPAE88RTuxGs8wyLpP6r/p0=
+
+Name: assets/strip/collect_mid.png
+SHA1-Digest: g9S08g5/R9IruN5COhtYqv5P6Dk=
+
+Name: assets/110.png
+SHA1-Digest: GmXh485rbgtnTL4wUKwD25fVYKY=
+
+Name: assets/105a0.plist
+SHA1-Digest: ihI4Gr8uAGPnT9oNUS+kEMgM+qw=
+
+Name: assets/sound/ogg/yx01_ts.ogg
+SHA1-Digest: TkoTyzh/7P6H9q1ZHXK3GObxbq0=
+
+Name: assets/tollgate/t118.plist
+SHA1-Digest: 1gFtzNsE/ITJu3QO7LjIvlARGcs=
+
+Name: assets/tollgate/t140.plist
+SHA1-Digest: bjjp6FeRp/C2NtIBwWJAfZnyBm4=
+
+Name: assets/strip/blood_bar_toll_bg.png
+SHA1-Digest: W9Z6DJ4jhPsvX/Jpg75/9BgZDgA=
+
+Name: assets/sound/ogg/yx02_mb.ogg
+SHA1-Digest: ijrOEnMepsj4kmMWtW16j6dO060=
+
+Name: assets/en/hard.png
+SHA1-Digest: ACdOIEoCZmskQJhCnSuNug+BZE0=
+
+Name: assets/title_bg.png
+SHA1-Digest: tE9Q+RVmq6k36B8fbBmuchrwvGY=
+
+Name: res/drawable-hdpi/gc_recharge_sale.png
+SHA1-Digest: cMPp6F8W1WBtxy627Yg/FYMLQ7Q=
+
+Name: assets/tollgate/t120.plist
+SHA1-Digest: UyfZrmyrrX0XL0Wgz9zP8j29R7s=
+
+Name: assets/p_3.plist
+SHA1-Digest: bT3IIOgsavBhj1QGX05M8vl1hOE=
+
+Name: assets/config/talkingData.plist
+SHA1-Digest: dMlw4gA30yqwqYLzOCBIZtClM6s=
+
+Name: assets/bg/bg_03.png
+SHA1-Digest: 5o8qTdA4jVqSsdhWhtidaxT1/Es=
+
+Name: assets/cn/kill.png
+SHA1-Digest: 4aQzosJ2VcWUgcjIiBuMIs43N6Y=
+
+Name: assets/211.png
+SHA1-Digest: sMaIr2mkF+sTTHndCPGbgRU1Bag=
+
+Name: assets/com_logo.png
+SHA1-Digest: mvy7V32APXdkS3ouUlyiMd4jvw8=
+
+Name: assets/com.idealdimension.EmpireAttack
+SHA1-Digest: dvCQ2oNqTHRtl+hfwMp3JJbbReg=
+
+Name: assets/tollgate/t126.plist
+SHA1-Digest: njmFPAMVgy5Ql+vs7Dne1b12B60=
+
+Name: assets/p_1.png
+SHA1-Digest: c7RS441nkFOS35LlslEMjsF35+o=
+
+Name: assets/sound/ogg/yx01_ccp.ogg
+SHA1-Digest: 6BcbxrrEWArB2ViKSz+DMP3sUas=
+
+Name: assets/sound/ogg/PY12.ogg
+SHA1-Digest: PGIRwNX0+Zz/CWPiYvjb6HyckAs=
+
+Name: assets/effect_3.png
+SHA1-Digest: q+YDLmPMaULxDRLwqn2ne1OdfDA=
+
+Name: assets/117a0.png
+SHA1-Digest: bBdebl5U/Du7qd/TvZw1nm7aZYE=
+
+Name: assets/en/config/story.plist
+SHA1-Digest: 6TofAFj2/GLW+ladGR+LUhaLoxs=
+
+Name: assets/211a0.plist
+SHA1-Digest: Pa1dAW45PhTtAyT4GbfXeD2RXBM=
+
+Name: assets/fire.png
+SHA1-Digest: 8egm8V0nxVDMGVUPG9qsO9UwJlg=
+
+Name: assets/p_4.png
+SHA1-Digest: iuGTyHFNCt+3UfTDw+XPu4UltmM=
+
+Name: assets/buy_mid.png
+SHA1-Digest: Y9XcQIiEN66mDeeZcBwAPadVPbM=
+
+Name: res/drawable-hdpi/gc_share_qq.png
+SHA1-Digest: us3dLdP6zzFmTthTTi6cOz/EY70=
+
+Name: assets/tollgate/t132.plist
+SHA1-Digest: 7aZ1UVRF3bV20MCTg5xuluwf0vY=
+
+Name: res/drawable-hdpi/gc_anim_title.png
+SHA1-Digest: 5t5Rj4LlaXHCLF3X9tKTGRcErpQ=
+
+Name: res/drawable-hdpi/gc_window.png
+SHA1-Digest: SbS2J7i2qNGsBoUd1QAuF02jZuk=
+
+Name: assets/henchman_mask.png
+SHA1-Digest: 3GeM+sqyvEzcofx1aMHEOTahNyU=
+
+Name: assets/prePVR.plist
+SHA1-Digest: LrMS2WtQpCONuMT2AjaqvthjhXc=
+
+Name: assets/110a0.png
+SHA1-Digest: ObtTyNgHPib24ICEem5K5zJ71dg=
+
+Name: res/drawable-hdpi/gc_leaderboard_gray_selector.xml
+SHA1-Digest: rx/EPWBvFDNJT/rHzHB6H6ikp90=
+
+Name: assets/strip/GuideView_TextPrompt_Middle.png
+SHA1-Digest: SRwzTIM27AkMlCFtBEfi5TBuPDs=
+
+Name: assets/adClose.png
+SHA1-Digest: FdPf2Ba6wM+4rXBehdUno4fgwJM=
+
+Name: assets/en/easy.png
+SHA1-Digest: DHkJ31C4Lbp6hrCPt18nQqzCKjY=
+
+Name: assets/119.plist
+SHA1-Digest: ZPOZ28qus55HwInrRqSClQffThI=
+
+Name: assets/117a0.plist
+SHA1-Digest: AtYOSh23acKuciSlOSzO5SEtkhs=
+
+Name: assets/206.png
+SHA1-Digest: hkw8M0j7KnVEJzfCrvF4kQqLYfA=
+
+Name: assets/Effect/effect_list.plist
+SHA1-Digest: +w7aOH8XwTsCTSHmEjmr4Doij2Y=
+
+Name: assets/strip/collect_begin.png
+SHA1-Digest: //giyejaZCpNlSoE2W3qkZjVU/I=
+
+Name: assets/104a0.png
+SHA1-Digest: DUmGGjRZmOiQr+3kDG/uaj4YDZQ=
+
+Name: assets/cn/hud-0.plist
+SHA1-Digest: 8u/xa4bq9DIpWdvOyYbTKPODcfM=
+
+Name: res/drawable-hdpi/g_logo_cmcc.png
+SHA1-Digest: 1B4bSEu1ufyIqmXNK89eHIe/1q0=
+
+Name: res/drawable-hdpi/gc_icon_extend.png
+SHA1-Digest: TfCpuhrQkkMz6/F3vJlqNbP1bx0=
+
+Name: assets/strip/blood_bar_toll_border.png
+SHA1-Digest: bxqncCL+x1UjP6tYQ8SFtM4qaPI=
+
+Name: assets/tollgate/t133.plist
+SHA1-Digest: 2myqesmFodXZMLaqjOWW9nGlL2U=
+
+Name: assets/ChoiceSkill_PanleMiddle.png
+SHA1-Digest: Y3Y9dwhQNMo7qrjzcz3wHORJQ1c=
+
+Name: res/drawable-hdpi/gc_leaderboard_btn_selector.xml
+SHA1-Digest: D1ceUe9azrMCn1KoNofCyO/jRKA=
+
+Name: assets/214a0.png
+SHA1-Digest: 0hIEehYaJRct1cLSs0sYUWohtZs=
+
+Name: assets/tollgate/t121.plist
+SHA1-Digest: pTs7zpGelzxdZvXHQjf2dgMYHyI=
+
+Name: res/drawable-hdpi/gc_gamepad_lb.png
+SHA1-Digest: lv9NBpC3j6LLVB1K9RymA5WoNXY=
+
+Name: assets/cn/time.png
+SHA1-Digest: WYPP2+HVf5HORRrdkeavPE8zOYQ=
+
+Name: res/drawable-hdpi/gc_gamepad_map_key.png
+SHA1-Digest: YRz3LXozV/JLaoiTWVg62H7HPnw=
+
+Name: assets/blood_bar_toll_blood.png
+SHA1-Digest: VGPGdby4gKg9LXB2Z70rrTEQcCs=
+
+Name: res/drawable-hdpi/gc_leaderboard_message_number_bg.png
+SHA1-Digest: 44Mu9zobPtBrgSY9DICgAeOQEZQ=
+
+Name: assets/p_4.plist
+SHA1-Digest: c0io4js8aiFjDt4BKTgZ9qaCGQc=
+
+Name: res/drawable-hdpi/gc_center_edit.png
+SHA1-Digest: /YRhIXkGI5gxqqRfhbY9hYKxQQ4=
+
+Name: assets/sound/ogg/PY03.ogg
+SHA1-Digest: WA+jSvq1cotrtm1jyVStXwKDVYc=
+
+Name: assets/111.png
+SHA1-Digest: nywtgOyPKDr0sDuVSWQPtMUOAK4=
+
+Name: assets/ConsumeCodeInfo.xml
+SHA1-Digest: /1T2wCLnUky/wW1u4jy5+e/4Zz4=
+
+Name: assets/cn/collect_update.png
+SHA1-Digest: lWA1N1R9dgD/LLATNSdAelkibVY=
+
+Name: assets/skill.plist
+SHA1-Digest: sg3715le1yL2pOK+TSuH8i2BHjY=
+
+Name: assets/tollgate/t124.plist
+SHA1-Digest: YKrUXkMkKarOW3LVmp3JjpgWk+w=
+
+Name: assets/105a0.png
+SHA1-Digest: +iRr+6rSh6gj4feHoqGb/dqOiA4=
+
+Name: assets/sound/ogg/PY11.ogg
+SHA1-Digest: ur4TQIMJUGansgXVFnCqWa3otXk=
+
+Name: res/drawable-hdpi/gc_share_weixinfriend.png
+SHA1-Digest: n6M5SKe3O/jqGruM9q8wZPSUD9o=
+
+Name: assets/p_7.plist
+SHA1-Digest: tt8CAaKVrWZjeMmtuavVRl19fAI=
+
+Name: assets/cn/easy.png
+SHA1-Digest: PZiqmudBkIkO1/QUjNE7JEVJHbE=
+
+Name: assets/tollgate/t127.plist
+SHA1-Digest: N3//l2iduu1b5LOPMFgQHQXf0x4=
+
+Name: assets/meta-data/manifest.mf
+SHA1-Digest: axd5P+JTYl/YcGr7E1PuS3o3CKs=
+
+Name: assets/114a1.png
+SHA1-Digest: 42/l+pC2v/t1SM14hAEsbSrU3ek=
+
+Name: assets/108a0.png
+SHA1-Digest: L40ZrKwc48iyygvYcXg8PRVt3g0=
+
+Name: assets/bg/bg_04.png
+SHA1-Digest: FtMXuC1JyYtHccndpaGvhRkaG0w=
+
+Name: assets/216a0.png
+SHA1-Digest: jzyTqsOeO5KwvsON4Y0SVvVvyXk=
+
+Name: assets/cn/config/enemyWeight.plist
+SHA1-Digest: bHSr5DJqoG5iZ/SI77FMMIOBU9w=
+
+Name: assets/p_2.png
+SHA1-Digest: X+D1MDM9H8KRwQgS7Sdeb5ppTH4=
+
+Name: assets/sound/ogg/PY01-1.ogg
+SHA1-Digest: IytofJxnz/ZJifZEo1wZ+GKH1Qk=
+
+Name: assets/Font/time_number.png
+SHA1-Digest: plgI++n+txQwzHSej5h6je3Eeuc=
+
+Name: assets/cn/bg/SceneBG.png
+SHA1-Digest: 8+9YxDAwUl3RLoWu5n2Pn0Oa4ks=
+
+Name: assets/tollgate/t117.plist
+SHA1-Digest: 2XhlIeaND8ctFmUpq7jhBuaFRB8=
+
+Name: res/drawable-hdpi/gc_center_gameshare.png
+SHA1-Digest: VSS6UbA1EsZu2J4He6YRpuM9bF8=
+
+Name: assets/tollgate/t131.plist
+SHA1-Digest: ARNMxFxcKB+IRuDAMttFcouDqv4=
+
+Name: res/drawable-hdpi/gc_gamepad_y.png
+SHA1-Digest: 0tpmKHy43tZs+0Uv1Sy7LEF2uxc=
+
+Name: assets/en/config/enemyWeight.plist
+SHA1-Digest: ZY9e7+U50qDJmka9mupV5Nz0m94=
+
+Name: assets/212.png
+SHA1-Digest: c3THl3z5r185AUipYvWJdOvIH9I=
+
+Name: assets/iridver.dat
+SHA1-Digest: hm3dnYzVoJuQ4UGOUheyJW97wyI=
+
+Name: assets/218a1.png
+SHA1-Digest: 1MZWSj3dginKRvtF0Zw6W7lu1s4=
+
+Name: assets/218a0.png
+SHA1-Digest: QIV5Q6/axfs29NxtZ5Trgz+hHS8=
+
+Name: assets/d_data_store.dat
+SHA1-Digest: xYnEfHlG9G+6PMZS76isdd0M2ls=
+
+Name: assets/pause_board_mid.png
+SHA1-Digest: R+t2sR0oiyOa/QknxiAcGO+3usM=
+
+Name: assets/221a0.png
+SHA1-Digest: RnrWzIgWoUvJUJEXXUZwuc3Ac1A=
+
+Name: assets/cn/Logo.png
+SHA1-Digest: OHOnS4VLvCU0UJAwWY0xjKjMbEM=
+
+Name: assets/blood.plist
+SHA1-Digest: OC5ivTlwLvseigfM++B9HGB2Vh8=
+
+Name: assets/Font/number_blood.png
+SHA1-Digest: Ilf4ZhR+RugTfu7niZ9QsZo/aWs=
+
+Name: assets/205.png
+SHA1-Digest: HqETIywxLnGdD/i3VBHpAfThFXI=
+
+Name: assets/cn/hud-0.png
+SHA1-Digest: umw/quriZ984kdpl/EfCuOOUlqE=
+
+Name: assets/Effect/fire_1.plist
+SHA1-Digest: lWEEvCdOvcHo1CuGGu7ZSrNYQww=
+
+Name: res/drawable-hdpi/gc_leaderboard_item_add_friend.png
+SHA1-Digest: T6gWCI6QVzRMC5aF2FI74dDI4ps=
+
+Name: assets/bangcle_classes.jar
+SHA1-Digest: LghdxdYmXErJK8cjs0Ip5wvyVpw=
+
+Name: assets/blood_red.png
+SHA1-Digest: IW880TwqnF9QP+t9GwhXxXuUQ+M=
+
+Name: assets/iTunesArtwork
+SHA1-Digest: clUi/JxckWBoDlWg02VHisZVvuQ=
+
+Name: assets/p_3.png
+SHA1-Digest: MvXS8mfjHRLd600hyfwF49E9zfY=
+
+Name: assets/224a1.png
+SHA1-Digest: n1vEH71/70DtOd66y6FPkUKfzZw=
+
+Name: assets/tollgate/t125.plist
+SHA1-Digest: rlHTEn+NGNzKtZuBQ5A4sFz1VXc=
+
+Name: assets/strip/strip_mid.png
+SHA1-Digest: aW6CBvYQpfqWcFrPKS2T3VJPD+U=
+
+Name: assets/105.png
+SHA1-Digest: CkNpFFbgkm9FeV+87TdyuX3ihW8=
+
+Name: assets/cn/config/tips.plist
+SHA1-Digest: pdFIn+CxUvww/l//Do6X8pvsxCo=
+
+Name: res/drawable-hdpi/gc_gamepad_mouse_pointer.png
+SHA1-Digest: 0nO+8iZu5m1ubmibj+DOTb73UEY=
+
+Name: assets/p_8.plist
+SHA1-Digest: v2Wvgmu4/ZTozahaA176cF5FnMQ=
+
+Name: assets/112a0.plist
+SHA1-Digest: ldvrUshyqXVykumIwbfYFVP+fAU=
+
+Name: assets/HUD_blood.png
+SHA1-Digest: x9MknPuz7/clFciZps4Hq268CSc=
+
+Name: assets/libsecmain.so
+SHA1-Digest: PFt2uRz481uCGMdXrGQFsu7ysVc=
+
+Name: assets/en/Font/arial.ttf
+SHA1-Digest: gcPc5JoOjWOP/uZq2rfohjgyUfg=
+
+Name: assets/cn/numerous_enemy.png
+SHA1-Digest: sdo2JmjTeJgOXBWl0WuX/vZVnJM=
+
+Name: res/drawable-hdpi/gc_gamepad_stick_l.png
+SHA1-Digest: 02+AWYn44o03MEe4DwEWSnIPcx4=
+
+Name: assets/Font/font_2.png
+SHA1-Digest: TfaoMgstNmPp8kf3NAo8vfk2zYY=
+
+Name: assets/217a0.plist
+SHA1-Digest: 10+5X1vkEwUHS8D0MuroLl5mhSQ=
+
+Name: assets/217a0.png
+SHA1-Digest: W5KEi++a6s7n1Bj3Eyyn4kbDGsg=
+
+Name: res/drawable-hdpi/gc_step_focused.png
+SHA1-Digest: n8kuNehM1SXSsK5dpKcIIOCZvIc=
+
+Name: assets/112a0.png
+SHA1-Digest: MosXC241XJbBsg0TzC68V3JToDY=
+
+Name: assets/tollgate/t119.plist
+SHA1-Digest: Z/jb8M2xkApaa6bDC64kUlNoZzE=
+
+Name: assets/en/config/tips.plist
+SHA1-Digest: 9JOdMsx/MQUQJ8ufkvCaWkactjc=
+
+Name: classes.dex
+SHA1-Digest: YY0buvkcjaNgxDbYoL6+dA81F/s=
+
+Name: assets/107a0.png
+SHA1-Digest: CcPi0gmHXKNkX3XYR3XLlUaQ/GA=
+

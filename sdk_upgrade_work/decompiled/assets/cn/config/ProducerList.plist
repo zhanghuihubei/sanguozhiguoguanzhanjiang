@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+		<key>0</key>
+		<dict>
+			<key>content</key>
+			<string>成都维动科技有限公司</string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>content</key>
+			<string>制作人员</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>content</key>
+			<string>制作人</string>
+			<key>name</key>
+			<string>黄盾 </string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>content</key>
+			<string>策划</string>
+			<key>name</key>
+			<string>黄盾 杜伟 廖礼杰</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>content</key>
+			<string>程式设计</string>
+			<key>name</key>
+			<string>杜虎</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>content</key>
+			<string>美术指导</string>
+			<key>name</key>
+			<string>陈涛</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>content</key>
+			<string>美术设计</string>
+			<key>name</key>
+			<string>曹龙 廖梦静</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>content</key>
+			<string>音乐音效</string>
+			<key>name</key>
+			<string>doudoudun</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>content</key>
+			<string>特别鸣谢</string>
+			<key>name</key>
+			<string>所有参与人员及其家人</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>content</key>
+			<string>成都维动科技版权所有</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>content</key>
+			<string>网址</string>
+			<key>name</key>
+			<string>www.idealdimension.com.cn</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>content</key>
+			<string>Powered By Cocos2d-x</string>
+		</dict>
+	</dict>
+</plist>

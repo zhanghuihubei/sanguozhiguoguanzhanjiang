@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+		<key>0</key>
+		<dict>
+			<key>content</key>
+			<string>IdealDimension</string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>content</key>
+			<string>Participants</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>content</key>
+			<string>Producer</string>
+			<key>name</key>
+			<string>Huang Dun</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>content</key>
+			<string>Plan</string>
+			<key>name</key>
+			<string>Huang Dun Du Wei Liao Lijie</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>content</key>
+			<string>Programming</string>
+			<key>name</key>
+			<string>Du Hu</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>content</key>
+			<string>Art director</string>
+			<key>name</key>
+			<string>Chen Tao</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>content</key>
+			<string>Art Design</string>
+			<key>name</key>
+			<string>Chao Long Liao Mengjing</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>content</key>
+			<string>Music</string>
+			<key>name</key>
+			<string>doudoudun</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>content</key>
+			<string>Special thanks for</string>
+			<key>name</key>
+			<string>all memebers and their families</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>content</key>
+			<string>IdealDimensionCopyright©</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>content</key>
+			<string>website</string>
+			<key>name</key>
+			<string>www.idealdimension.com.cn</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>content</key>
+			<string>Powered By Cocos2d-x</string>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,57 @@
+# APK extracted files
+apk_extracted/
+apk_source/
+
+# Build outputs
+# Note: We keep the final *_fixed.apk as it's the solution deliverable
+# Only ignore temporary intermediate files
+*_fixed_unsigned.apk
+*_fixed_signed.apk
+*.jar
+*.sig
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.gradle/
+build/
+
+# Keystore/signing
+*.keystore
+*.jks
+*.p12
+
+# Build tools artifacts
+obj/
+gen/
+bin/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logcat.txt
+bugreport.txt
+
+# Documentation build
+docs/_build/
+site/

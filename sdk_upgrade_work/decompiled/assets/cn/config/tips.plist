@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>0</key>
+        <string>拾取钱袋可以累积更多金钱，招募更多士兵参战</string>
+        <key>1</key>
+        <string>拾取金元宝可以升级霸刀、城防和技能</string>	
+        <key>2</key>
+        <string>敌兵接近，霸刀停止移动就能自动攻击敌兵</string>
+		<key>3</key>
+		<string>大量敌兵靠近时，点击不同技能图标使用技能攻击</string>
+		<key>4</key>
+		<string>霸刀血量大幅减少时，可以暂时撤退自动回血后再战</string>
+		<key>5</key>
+		<string>霸刀停止移动才会自动攻击靠近的敌兵哦！</string>
+		<key>6</key>
+		<string>购买精英弓箭兵，能更好的帮助你阻挡敌人的进攻</string>
+		<key>7</key>
+		<string>购买投石车，能更有效的帮助你阻挡敌人的进攻</string>
+		<key>8</key>
+		<string>升级城墙护卫，增强防御让你获得战役生存最宝贵的时间</string>
+		<key>9</key>
+		<string>升级后勤，钱袋的增长速度更快，使你招募更多的士兵</string>
+		<key>10</key>
+		<string>战斗中招募士兵可以有效的迟缓敌人进攻的锋芒</string>
+		<key>11</key>
+		<string>升级霸刀获得更高的血量和攻击力</string>
+		<key>12</key>
+		<string>升级煌龙刀能大幅提升霸刀的攻击力</string>
+		<key>13</key>
+		<string>煌龙断天刃是霸刀最强的范围伤害，让敌人饱尝恐惧的滋味吧！</string>
+		<key>14</key>
+		<string>火箭雨升级满后你会发现普通士兵真的不堪一击</string>
+		<key>15</key>
+		<string>发剑兵是最有利的支援兵，他为步兵提供武器，让他们成为更强的战力</string>
+		<key>16</key>
+		<string>敌兵骑兵部队会在战役的关键时候发动致命一击，你一定要坚持住</string>
+		<key>17</key>
+		<string>敌兵弓箭手和精英弓箭手，会在远距离对你发动致命一击</string>
+		<key>18</key>
+		<string>敌兵精英盾牌兵能有效滞缓你方士兵的攻击势头，集中优势消灭他</string>
+    </dict>
+</plist>

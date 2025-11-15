@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>0</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>霸 刀</string>
+            <key>type</key>
+            <string>—英 雄—</string>
+			<key>condition</key>
+			<string></string>
+            <key>character</key>
+            <string><![CDATA[中等伤害
+中等血量]]></string>
+            <key>detail</key>
+            <string>神界的三大神将之一，以大刀为武器，拥有优秀的防御力和超强的攻击力。</string>
+        </dict>
+        <key>1001</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>煌龙刀</string>
+            <key>type</key>
+            <string>—武 器—</string>
+			<key>condition</key>
+			<string></string>			
+            <key>character</key>
+            <string>增强近身攻击伤害</string>
+            <key>detail</key>
+            <string>神界为霸刀配置的神秘武器，据说拥有毁天灭地的力量，目前由于某些原因能力被封印。</string>
+        </dict>        
+        <key>221</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>破灭击</string>
+            <key>type</key>
+            <string>—技 能—</string>
+			<key>condition</key>
+			<string></string>			
+            <key>character</key>
+            <string>一次强力伤害</string>
+            <key>detail</key>
+            <string>霸刀用刀崩裂大地后射出刀光，对前方一名敌人造成伤害。</string>
+        </dict>
+		<key>222</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>火箭雨</string>
+            <key>type</key>
+            <string>—技 能—</string>	
+			<key>condition</key>
+			<string>第二战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[以火箭雨攻击
+ 霸刀前方敌人]]></string>
+            <key>detail</key>
+            <string>霸刀发出号令，后方的弓箭手射出密集的火箭，对敌人造成大范围的攻击。</string>
+        </dict>
+        <key>226</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>煌龙断天刃</string>
+            <key>type</key>
+            <string>—技 能—</string>	
+			<key>condition</key>
+			<string>第三十五战役解锁</string>
+            <key>character</key>
+            <string>范围毁灭性伤害</string>
+            <key>detail</key>
+            <string>霸刀解放武器封印，以真龙之力形成一柄神兵巨刃，斩向前方。</string>
+        </dict> 		
+        <key>223</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>奇 计</string>
+            <key>type</key>
+            <string>—技 能—</string>
+			<key>condition</key>
+			<string>第七战役解锁</string>
+            <key>character</key>
+            <string>召唤伏兵</string>
+            <key>detail</key>
+            <string>召唤伏兵协助霸刀或治疗我军霸刀使用随机一种计策。伏兵：呼唤预先埋伏的士兵立即出现协助霸刀，对敌人发动奇袭。</string>
+        </dict> 
+        <key>225</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>落 石</string>
+            <key>type</key>
+            <string>—技 能—</string>
+			<key>condition</key>
+			<string>第二十二战役解锁</string>
+            <key>character</key>
+            <string>以落石攻击霸刀前方敌人</string>
+            <key>detail</key>
+            <string>霸刀发出号令，后方的投石车投出数个巨石，对敌军造成毁灭性的打击。</string>
+        </dict>      
+        <key>224</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>1</string>
+            <key>name</key>
+            <string>疾风击</string>
+            <key>type</key>
+            <string>—技 能—</string>	
+			<key>condition</key>
+			<string>第十二战役解锁</string>
+            <key>character</key>
+            <string>一次快速向前挥击</string>
+            <key>detail</key>
+            <string>霸刀用武器快速挥击形成刀气，攻击前方敌人。</string>
+        </dict>                                               
+        <key>12</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>步 兵</string>
+            <key>type</key>
+            <string>—部 队—</string>	
+			<key>condition</key>
+			<string></string>
+            <key>character</key>
+            <string><![CDATA[低伤害
+低血量]]></string>
+            <key>detail</key>
+            <string>最普通的木棒兵，各方面属性都很均衡。</string>
+        </dict>
+        <key>13</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>2</string> 
+            <key>name</key>
+            <string>盾牌兵</string>
+            <key>type</key>
+            <string>—部 队—</string>	
+			<key>condition</key>
+			<string>第四战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[中等伤害
+中等血量]]></string>
+            <key>detail</key>
+            <string>身穿盔甲，左手持短枪，右手持盾牌。</string>
+        </dict>
+        <key>14</key>
+        <dict>
+        		<key>keyType</key>
+        		<string>2</string> 
+            <key>name</key>
+            <string>长枪兵</string>
+            <key>type</key>
+            <string>—部 队—</string>		
+			<key>condition</key>
+			<string>第五战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[高伤害
+低血量
+中距离攻击]]></string>
+            <key>detail</key>
+            <string>装备长枪的正规军，攻击较强，攻击距离比一般步兵远，但防御力较弱。</string>
+        </dict>
+        <key>15</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>         	
+            <key>name</key>
+            <string>弓箭兵</string>
+            <key>type</key>
+            <string>—部 队—</string>
+			<key>condition</key>
+			<string>第六战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[低攻击
+低血量
+长距离攻击]]></string>
+            <key>detail</key>
+            <string>装备弓箭的士兵，可远距离攻击敌人，但是攻击力与防御力都较弱。</string>
+        </dict>
+        <key>16</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>发剑兵</string>
+            <key>type</key>
+            <string>—部 队—</string>
+			<key>condition</key>
+			<string>第八战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[速度快
+低血量
+为步兵装备剑]]></string>
+            <key>detail</key>
+            <string>军队中负责武器输送的人员，为没有武器的士兵提供武器支援。</string>
+        </dict>
+        <key>17</key>
+        <dict>						
+        		<key>keyType</key>
+        		<string>2</string>
+            <key>name</key>
+            <string>重戟兵</string>
+            <key>type</key>
+            <string>—队 伍—</string>
+			<key>condition</key>
+			<string>第十三战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[高血量
+攻击速度缓慢]]></string>
+            <key>detail</key>
+            <string>穿着重甲手持巨戟的重装士兵，拥有极高的防御能力，但是过重的装备也降低了他的速度。</string>
+        </dict>
+        <key>18</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>神医</string>
+            <key>type</key>
+            <string>—英 雄—</string>
+			<key>condition</key>
+			<string>第十四战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[低血量
+治愈友军]]></string>
+            <key>detail</key>
+            <string>精通治疗的随军医生，站在部队后方为友军治疗伤势，但自身非常脆弱。</string>
+        </dict>
+        <key>19</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>廖化</string>
+            <key>type</key>
+            <string>—英 雄—</string>
+			<key>condition</key>
+			<string>第十八战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[中等伤害
+极高血量]]></string>
+            <key>detail</key>
+            <string>先为黄巾贼，后从关羽。五虎将死后，以一人之力顶起蜀国大旗，乃蜀国之元老。</string>
+        </dict>
+        <key>20</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>骑兵</string>
+            <key>type</key>
+            <string>—部 队—</string>
+			<key>condition</key>
+			<string>第二十一战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[高伤害
+低血量
+快速移动]]></string>
+            <key>detail</key>
+            <string>经过严格训练的骑兵，这些骁勇的骑兵出现在战场会对敌人造成极大的冲击。</string>
+        </dict>
+        <key>21</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>马超</string>
+            <key>type</key>
+            <string>—英 雄—</string>
+			<key>condition</key>
+			<string>第二十九战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[动作快
+高伤害
+高血量]]></string>
+            <key>detail</key>
+            <string>五虎将之一，曾打得北方军阀曹操割须弃袍，狼狈逃窜。被曹操说道：‘马儿不死，吾无葬地也。’”</string>
+        </dict>
+        <key>22</key>
+        <dict>
+						<key>keyType</key>
+        		<string>2</string>        	
+            <key>name</key>
+            <string>火炬兵</string>
+            <key>type</key>
+            <string>—部 队—</string>
+			<key>condition</key>
+			<string>第三十六战役解锁</string>
+            <key>character</key>
+            <string><![CDATA[动作快
+低血量
+给弓箭手箭头点火]]></string>
+            <key>detail</key>
+            <string>专为箭矢点火，提高弓手射出弓箭的威力。</string>
+        </dict>
+        <key>23</key>
+        <dict>
+						<key>keyType</key>
+        		<string>3</string>        	
+            <key>name</key>
+            <string>城墙护卫</string>
+            <key>type</key>
+            <string>—防 御—</string>
+			<key>condition</key>
+			<string></string>
+            <key>character</key>
+            <string>增加护卫的血量</string>
+            <key>detail</key>
+            <string>忠诚的护卫，誓死保护城墙，人在城在。</string>
+        </dict>
+        <key>24</key>
+        <dict>
+						<key>keyType</key>
+        		<string>3</string>        	
+            <key>name</key>
+            <string>精英弓箭手</string>
+            <key>type</key>
+            <string>—防 御—</string>
+			<key>condition</key>
+			<string>第三战役解锁</string>
+            <key>character</key>
+            <string>增强精英弓箭手</string>
+            <key>detail</key>
+            <string>箭术高超的精英弓箭手，他们从不冲锋陷阵，只站在安全的地方对敌人进行狙击。</string>
+        </dict>
+        <key>25</key>
+        <dict>
+						<key>keyType</key>
+        		<string>3</string>        	
+            <key>name</key>
+            <string>投石车</string>
+            <key>type</key>
+            <string>—防 御—</string>
+			<key>condition</key>
+			<string>第二十战役解锁</string>
+            <key>character</key>
+            <string>投石车能击退敌人</string>
+            <key>detail</key>
+            <string>投石车是抛射石弹的大型人力兵器，能在战场上对敌人造成毁灭性的伤害。</string>
+        </dict>
+        <key>3002</key>
+        <dict>
+						<key>keyType</key>
+        		<string>3</string>        	
+            <key>name</key>
+            <string>后 勤</string>
+            <key>type</key>
+            <string>—防 御—</string>
+			<key>condition</key>
+			<string>第三十三战役解锁</string>
+            <key>character</key>
+            <string>增加军粮起始等级</string>
+            <key>detail</key>
+            <string>投入更多的资金建设后勤，可以让你的军粮补给更加快捷。</string>
+        </dict>      
+    </dict>
+</plist>

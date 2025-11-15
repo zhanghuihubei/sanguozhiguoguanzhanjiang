@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>0</key>
+        <string>Gathering money bags to recruit troops.</string>
+        <key>1</key>
+        <string>Gathering gold to update Heroes, defense and skills.</string>	
+        <key>2</key>
+        <string>Hero Badao will automatically attack enemies as they are approaching.</string>
+		<key>3</key>
+		<string>Tap to release skills as enemies are approaching.</string>
+		<key>4</key>
+		<string>When Hero Badao' HP is low, move back and HP will increases a little automatically.</string>
+		<key>5</key>
+		<string>Hero Badao will automatically attack enemies only when he stops!</string>
+		<key>6</key>
+		<string>Buy Longbow soliders to defend.</string>
+		<key>7</key>
+		<string>Buy Trebuchet to defend.</string>
+		<key>8</key>
+		<string>Upgrade town's Guard.</string>
+		<key>9</key>
+		<string>Upgrade logistics to speed money increase.</string>
+		<key>10</key>
+		<string>Recruiting troops to strengthen defense.</string>
+		<key>11</key>
+		<string>Upgrade Hero Badao for more HP and power.</string>
+		<key>12</key>
+		<string>Upgrade Dragon Blade to more power.</string>
+		<key>13</key>
+		<string>Huang Long day off Pa knife blade is the strongest scope of damage, so the fear of the enemy suffered a taste of it.</string>
+		<key>14</key>
+		<string>Fire Arrow Grid causing group damage.</string>
+		<key>15</key>
+		<string>Logistics Soliders power infantry with swords.</string>
+		<key>16</key>
+		<string>Beware of the enemy knights.</string>
+		<key>17</key>
+		<string>Enemy archers will attack you in far distance.</string>
+		<key>18</key>
+		<string>Enemy shield soldiers have more HP.</string>
+    </dict>
+</plist>
