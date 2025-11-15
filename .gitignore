@@ -1,12 +1,18 @@
-# APK extracted files
+# APK extracted files and working directories
 apk_extracted/
 apk_source/
+apk_fix_work/
+sdk_upgrade_work/
+temp_apk_rebuild/
+temp_bangcle_libs/
 
 # Build outputs
-# Note: We keep the final *_fixed.apk as it's the solution deliverable
+# Note: We keep the final *_fixed.apk and *_android9_fixed.apk as solution deliverables
 # Only ignore temporary intermediate files
 *_fixed_unsigned.apk
 *_fixed_signed.apk
+*_unsigned_temp.apk
+*_aligned.apk
 *.jar
 *.sig
 
